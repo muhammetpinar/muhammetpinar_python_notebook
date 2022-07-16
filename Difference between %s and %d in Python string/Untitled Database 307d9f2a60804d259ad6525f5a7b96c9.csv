@@ -1,0 +1,4 @@
+﻿%s,%d
+It is used as a placeholder for string values.,It is used as a placeholder for numeric values.
+Uses string conversion via str() before formatting.,Uses decimal conversion via int() before formatting.
+%s can accept numeric values also and it automatically does the type conversion.,In case a string is specified for %d operator a type error is returned.
